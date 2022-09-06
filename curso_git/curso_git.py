@@ -44,6 +44,8 @@ a = 'N'
 
 # Inicio del bucle principal
 
+print("Inicio del programa")
+
 while True:
     "Bucle principal"
     instruccion = input("Siguiente instrucción:")
