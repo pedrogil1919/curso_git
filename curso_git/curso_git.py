@@ -60,3 +60,5 @@ while True:
         x, y, a = girar_izquierda(x, y, a)
     else:
         print("Instrucción incorrecta.")
+
+print("Fin del programa")
