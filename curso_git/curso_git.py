@@ -12,4 +12,5 @@ while True:
     
     instruccion = input("Siguiente instrucción:")
     if instruccion == "Q":
+        print("Instrucción solicitada:", instruccion)
         break
