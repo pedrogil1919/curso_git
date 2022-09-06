@@ -42,3 +42,11 @@ while True:
     if instruccion == "Q":
         print("Instrucción solicitada:", instruccion)
         break
+    if instruccion == 'A':
+        x, y, a = avanzar(x, y, a)
+    elif instruccion == 'R':
+        x, y, a = retroceder(x, y, a)
+    elif instruccion == 'D':
+        x, y, a = girar_derecha(x, y, a)
+    elif instruccion == 'I':
+        x, y, a = girar_izquierda(x, y, a)
