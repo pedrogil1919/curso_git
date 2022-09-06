@@ -50,6 +50,7 @@ while True:
     "Bucle principal"
     instruccion = input("Siguiente instrucción:")
     if instruccion == "Q":
+        "Leemos la instrucción siguiente:"
         print("Instrucción solicitada:", instruccion)
         break
     if instruccion == 'A':
