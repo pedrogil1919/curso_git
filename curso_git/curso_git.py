@@ -40,7 +40,9 @@ x = 0
 y = 0
 a = 'N'
 
-# Aquí comienza el bucle principal
+
+
+# Inicio del bucle principal
 
 while True:
     "Bucle principal"
