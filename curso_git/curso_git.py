@@ -39,7 +39,9 @@ def girar_izquierda(x, y, a):
 x = 0
 y = 0
 a = 'N'
-        
+
+# Inicio del bucle principal
+
 while True:
     "Bucle principal"
     instruccion = input("Siguiente instrucción:")
